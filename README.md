@@ -12,7 +12,7 @@
 ### Site #2: https://www.thedesk.org.au/index 
 #### _The Desk is a student health,wellbeing, and support website. It consists of resources students can use when struggling with mental health issues as well as modules and tools to assist when struggling with these issues._
 
-![Image of The Dest Website]
+![Image of The Desk Website]
 (https://serene-sup.github.io/DH150-2019F/thedesk.png)
 
 
